@@ -1,4 +1,4 @@
-# PRIVACY ADDENDUM
+# GATENIGHT PRIVACY ADDENDUM
 **Last Updated: 2026-03-31**
 
 This Privacy Addendum ("Addendum") applies specifically to **GateNight**, a social platform for aviation professionals operated by Alnair Studio. This document supplements the [Alnair Studio Master Privacy Policy](https://www.alnair-studio.com/privacy).
@@ -32,3 +32,7 @@ To maintain a community of verified aviation professionals, we perform a Know Yo
 
 ## 6. AGE RESTRICTION
 GateNight is intended for users of legal working age in the aviation industry. You must be at least **18 years of age** to use this service.
+
+---
+
+&copy; 2026 Alnair Studio. All rights reserved.
